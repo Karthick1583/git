@@ -1,3 +1,3 @@
 # hello world
 
-trying to connect to github
+trying to connect github to my vscode
